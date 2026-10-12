@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System;
 
 namespace StudentApp
@@ -35,3 +36,6 @@ namespace StudentApp
         }
     }
 }
+=======
+﻿Console.WriteLine("Hello, World!");
+>>>>>>> 92c651cc29dfa5c81e115abdc693ab09dbbee721
